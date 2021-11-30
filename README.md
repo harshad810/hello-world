@@ -1,5 +1,5 @@
 # hello-world
 Just an introduction repository
 
-hello git this is punit.Learning technologies such as web development, data science & machine learning
+hello git this is HARSHAD.Learning technologies such as data science & machine learning
 
